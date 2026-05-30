@@ -8,12 +8,12 @@
 #include "DFRobotDFPlayerMini.h"
 
 // -------- WiFi --------
-const char* ssid     = "ESP32_Test";
-const char* password = "12345678";
+const char* ssid     = "Wi-Fi name";
+const char* password = "Password";
 
 // -------- Telegram --------
-const char* BOT_TOKEN = "8691141460:AAEU-y1h6Yq4abhsh9nOiq4AbehYTXQOIXo";
-const char* CHAT_ID   = "5703047512";
+const char* BOT_TOKEN = " BOT_TOKEN";
+const char* CHAT_ID   = " CHAT_ID";
 
 // -------- Buzzer --------
 #define BUZZER_PIN 23
